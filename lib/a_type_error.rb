@@ -1,3 +1,3 @@
-1 + 1
+TypeError = 1 + 1
 
-1 + "is the loneliest number"
+TypeError = 1 + 0

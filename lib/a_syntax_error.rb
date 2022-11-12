@@ -1,3 +1,3 @@
-x = 1
+SyntaxError = 1
 
-x = 
+SyntaxError = 2
